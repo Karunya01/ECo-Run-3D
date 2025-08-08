@@ -1,3 +1,5 @@
+Link to Walkthrough Video: https://youtu.be/pLtn3y9R8Uw
+
 🌍 Eco Run: Collect, Conserve!  
 **Genre:** 3D Educational Endless Runner  
 **Target Platform:** PC  
@@ -67,11 +69,12 @@ Eco Run is a 3D educational endless runner where players (Amy) race through an e
 ---
 
 📌 **Development Goals**  
-- [x] Implement procedural terrain segment generation  
-- [x] Add collection system   
-- [x] Add player jump mechanic with animation  
+- [ ] Implement procedural terrain segment generation  
+- [ ] Add collection system   
+- [ ] Add player jump mechanic with animation  
 - [ ] Polish UI with better feedback effects  
 - [ ] Add more terrain segment variations  
 - [ ] Implement obstacle mechanics for more challenge  
 
 ---
+Sources and References: Jimmy Vegas Videos
